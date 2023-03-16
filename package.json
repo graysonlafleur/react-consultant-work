@@ -1,5 +1,6 @@
 {
   "name": "truffle",
+  "homepage": "/chromium/src/chrome/browser/resources/new_tab_page/build/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
